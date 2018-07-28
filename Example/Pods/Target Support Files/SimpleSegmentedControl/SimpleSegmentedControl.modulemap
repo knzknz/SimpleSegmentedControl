@@ -1,0 +1,6 @@
+framework module SimpleSegmentedControl {
+  umbrella header "SimpleSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
